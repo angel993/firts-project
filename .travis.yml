@@ -1,25 +1,25 @@
-language: "python"
+language: python
 os:
-  "ubuntu"
+  ubuntu
 
-dist: "xenial"
+dist: xenial
 sudo: true
 python:
-    "3.8.2"
+    3.8.2
 
 env:
-    "global":
+    global:
 
-      "PIPENV_VENV_IN_PROJECT": "1"
+      PIPENV_VENV_IN_PROJECT: 1
 
 
-      "PIPENV_IGNORE_VIRTUALENVS": "1"
+      PIPENV_IGNORE_VIRTUALENVS: 1
 
 
 
 install:
-    "pip install -r requirements.txt"
+    pip install -r requirements.txt
 
-script: 
-    "flake8"
+script:
+    flake8
 
