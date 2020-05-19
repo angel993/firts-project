@@ -1,27 +1,25 @@
-{
-  "language": "python",
-  "os": [
-    "ubuntu"
-  ],
-  "dist": "xenial",
-  "sudo": true,
-  "python": [
+language: "python"
+os:
+  "ubuntu"
+
+dist: "xenial"
+sudo: true
+python:
     "3.8.2"
-  ],
-  "env": {
-    "global": [
-    {
+
+env:
+    "global":
+
       "PIPENV_VENV_IN_PROJECT": "1"
-    },
-    {
+
+
       "PIPENV_IGNORE_VIRTUALENVS": "1"
-    }
-    ]
-  },
-  "install": [
+
+
+
+install:
     "pip install -r requirements.txt"
-  ],
-  "script": [
+
+script: 
     "flake8"
-  ]
-}
+
