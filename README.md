@@ -1,6 +1,8 @@
 # firts-project
 Modulo para exemplificar contruccion de proyectos python en el curso pytools
 
+[![Build Status](https://travis-ci.org/angel993/firts-project.svg?branch=master)](https://travis-ci.org/angel993/firts-project)
+
 soportada version 3 de python
 
 Para instalar:
