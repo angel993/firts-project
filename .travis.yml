@@ -1,6 +1,4 @@
 language: python
-os:
-  ubuntu
 
 dist: xenial
 sudo: true
