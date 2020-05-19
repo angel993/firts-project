@@ -9,7 +9,3 @@ env:
   global:
     - PIPENV_VENV_IN_PROJECT=1
     - PIPENV_IGNORE_VIRTUALENVS=1
-instal:
-  - pip install -q -r requirements-dev.txt
-script:
-  - flake8
