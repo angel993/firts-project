@@ -1,7 +1,7 @@
 {
   "language": "python",
   "os": [
-    "linux"
+    "ubuntu"
   ],
   "dist": "xenial",
   "sudo": true,
