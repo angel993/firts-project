@@ -1,7 +1,7 @@
 # firts-project
 Modulo para exemplificar contruccion de proyectos python en el curso pytools
 
-[![Build Status](https://travis-ci.org/angel993/firts-project.svg?branch=master)](https://travis-ci.org/angel993/firts-project)
+[![Build Status](https://travis-ci.com/angel993/firts-project.svg?branch=master)](https://travis-ci.com/angel993/firts-project)
 [![Updates](https://pyup.io/repos/github/angel993/firts-project/shield.svg)](https://pyup.io/repos/github/angel993/firts-project/)
 [![Python 3](https://pyup.io/repos/github/angel993/firts-project/python-3-shield.svg)](https://pyup.io/repos/github/angel993/firts-project/)
 
