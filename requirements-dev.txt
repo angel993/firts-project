@@ -14,7 +14,7 @@ attrs==19.3.0
 
 #Coverage
 coverage==5.1
-pytest-cov==2.9.0
+pytest-cov==4.0.0
 
 -r requirements.txt
 
